@@ -15,38 +15,38 @@
 تشرفنا	Nice to meet you	Daily_Life::Greetings
 وحشتني	I missed you so much	Daily_Life::Greetings
 وحشتني أوي	I really missed you	Daily_Life::Greetings
-هو فين ده؟	Where the heck is this place?	Daily_Life::Navigation
+ده فين ده؟	Where the heck is this place?	Daily_Life::Navigation
 أنا تُهت	I'm totally lost	Daily_Life::Navigation
 امشي على طول	Go straight ahead	Daily_Life::Navigation
 لف شمال	Turn left	Daily_Life::Navigation
 لف يمين	Turn right	Daily_Life::Navigation
 قريب من هنا؟	Is it close by?	Daily_Life::Navigation
 بعيد أوي؟	Is it really far?	Daily_Life::Navigation
-ركب تاكسي	Grab a cab	Daily_Life::Navigation
+خد تاكسي	Grab a cab	Daily_Life::Navigation
 الأوبر أسرع	Uber's faster	Daily_Life::Navigation
 في زحمة دلوقتي	Traffic's a nightmare right now	Daily_Life::Navigation
 قولي لما نوصل	Let me know when we get there	Daily_Life::Navigation
 أنا جعان موت	I'm starving to death	Daily_Life::Food
-الأكل بيجنن	The food is insane (so good)	Daily_Life::Food
+الأكل يجنن	The food is insane (so good)	Daily_Life::Food
 ده طعمه إيه؟	What does this taste like?	Daily_Life::Food
 معاك حاجة حلوة؟	You got anything sweet?	Daily_Life::Food
 الطعمية بتاعتهم أحسن	Their falafel is the best	Daily_Life::Food
 حاجة ساقعة لو سمحت	Something cold, please	Daily_Life::Food
-المنيو بتاعكم إيه؟	What's on your menu?	Daily_Life::Food
-اللي ينفع	Whatever works / Whatever you've got	Daily_Life::Food
+المنيو بتاعكم فيه إيه؟	What's on your menu?	Daily_Life::Food
+أي حاجة	Whatever works / Whatever you've got	Daily_Life::Food
 زيادة شوية	A little more please	Daily_Life::Food
 بس كده، شكراً	That's enough, thanks	Daily_Life::Food
 الفاتورة لو سمحت	Check please	Daily_Life::Food
 ده تقيل على معدتي	This is heavy on my stomach	Daily_Life::Food
-كلنا هنشارك	We're all splitting it	Daily_Life::Food
-هيجيب له نفسه	It'll prove itself	Daily_Life::Food
-العيش ما يلزمش	No bread needed	Daily_Life::Food
+هنقسم الحساب	We're all splitting it	Daily_Life::Food
+الأيام هتبين	Time will tell	Daily_Life::General
+مش عايز عيش	No bread needed	Daily_Life::Food
 بكام ده؟	How much is this?	Shopping
 غالي أوي	That's way too expensive	Shopping
 فيه حاجة أرخص؟	Is there anything cheaper?	Shopping
 ممكن تنزل شوية؟	Can you bring the price down a bit?	Shopping
 آخر سعر إيه؟	What's your best price?	Shopping
-مش تمن ده	This isn't worth the price	Shopping
+ما يستاهلش التمن ده	This isn't worth the price	Shopping
 ماشي، خدها	Alright, deal — I'll take it	Shopping
 عندك مقاس أكبر؟	You got a bigger size?	Shopping
 عايز أجرب ده	I want to try this on	Shopping
@@ -55,7 +55,7 @@
 فيه ديسكونت؟	Is there a discount?	Shopping
 ده فيه عيب	This has a defect	Shopping
 ممكن أبدله؟	Can I exchange it?	Shopping
-معايا الحق بالظبط	I've got the exact change	Shopping
+معايا الفكة بالظبط	I've got the exact change	Shopping
 أنا على الحديدة	I'm flat broke	Shopping
 مش معايا فلوس دلوقتي	I don't have cash on me right now	Shopping
 هاجيب الباقي بكره	I'll bring the rest tomorrow	Shopping
@@ -63,7 +63,7 @@
 الكارت مش شغال	My card isn't working	Shopping
 محتاج مساعدة؟	You need a hand?	Work_Business
 شغلي بيجنني	My job is driving me crazy	Work_Business
-البوص بيضغط عليا	My boss is on my case	Work_Business
+المدير بيضغط عليا	My boss is on my case	Work_Business
 عندي ميتنج	I've got a meeting	Work_Business
 الميتنج اتأجل	The meeting got pushed back	Work_Business
 خلصت الشغل	I'm done with work	Work_Business
@@ -79,8 +79,8 @@
 هاعمله في أقرب وقت	I'll get it done ASAP	Work_Business
 خليك على التليفون	Stay by your phone	Work_Business
 بعتلك إيميل	I sent you an email	Work_Business
-مش فاهم المطلوب مني	I don't really know what they want from me	Work_Business
-حسابات التيك توك بتاعتنا ضعيفة	Our TikTok engagement is terrible	Work_Business
+مش فاهم هما عايزين مني إيه	I don't really know what they want from me	Work_Business
+الريتش عندنا على التيك توك واقع	Our TikTok engagement is terrible	Work_Business
 مش حاسس بيها	I'm not feeling it / I'm not into it	Emotions
 أنا زهقت	I'm bored out of my mind	Emotions
 أنا تعبت	I'm exhausted	Emotions
@@ -88,19 +88,19 @@
 متوتر أوي	I'm really stressed out	Emotions
 مش قادر أهدى	I can't calm down	Emotions
 فرحان جداً	I'm really happy	Emotions
-أنا في تمام	I'm doing great	Emotions
-البكاء هيجي منه	He's about to burst into tears	Emotions
+أنا تمام	I'm doing great	Emotions
+خلاص هيعيط	He's about to burst into tears	Emotions
 خايف من الفشل	I'm scared of failing	Emotions
 محتاج حد يسمعني	I need someone to listen to me	Emotions
 مش قادر أفكر	I can't think straight	Emotions
-ضيق صدري	I feel suffocated / I'm overwhelmed	Emotions
+مخنوق	I feel suffocated / I'm overwhelmed	Emotions
 ده وجعني أوي	That really got to me	Emotions
 أنا مبسوط	I'm happy / I'm pleased	Emotions
 ماتزعلش	Don't be upset	Emotions
-على قلبي	It warms my heart	Emotions
+ريح قلبي	It warms my heart	Emotions
 شايل هم	I've got a lot on my mind	Emotions
 ضحكتني	You cracked me up	Emotions
-أنا حاسس بوحدة	I feel alone	Emotions
+أنا حاسس إني لوحدي	I feel alone	Emotions
 هو بيقول إيه؟	What's he on about?	Arguing
 ده مش كلامي	That's not what I said	Arguing
 أنا كنت صح	I was right	Arguing
@@ -117,43 +117,43 @@
 اللي أنت عامله ده مش صح	What you're doing is wrong	Arguing
 أنا مش هسكت	I'm not keeping my mouth shut	Arguing
 السر في بير	My lips are sealed	Idioms
-ضرب في الهوا	You're wasting your breath	Idioms
-بتاكل فيه	He's dragging it out / milking it	Idioms
+كلام في الهوا	You're wasting your breath	Idioms
+بيمط في الكلام	He's dragging it out / milking it	Idioms
 ولعت	It blew up / Everything went sideways	Idioms
 على الآخر	Full blast / Going all out	Idioms
-شايل دماغه	He thinks he's all that	Idioms
+شايف نفسه	He thinks he's all that	Idioms
 وقع في بير	He got himself into a mess	Idioms
-ربط دماغه	He pulled himself together	Idioms
+فوق لنفسه	He pulled himself together	Idioms
 شاطر يحسب	He's playing it smart	Idioms
 اتقلب عليه الحال	His luck turned on him	Idioms
 دايخ معاه	I'm losing my mind dealing with him	Idioms
 طفح الكيل	He's at his breaking point	Idioms
-طلع من عينيه	He can't stand him anymore	Idioms
-ماشي على طراطيف صوابعه	He's walking on eggshells	Idioms
-قلبه في الأرض	He's heartbroken	Idioms
-ده مش طبعي	This is not normal	Idioms
+قفلت منه	He can't stand him anymore	Idioms
+ماشي على بيض	He's walking on eggshells	Idioms
+قلبه مكسور	He's heartbroken	Idioms
+ده مش طبيعي	This is not normal	Idioms
 خده على قد عقله	Handle him according to his level	Idioms
 خش في الموضوع	Get to the point	Idioms
-كله في الأيدي	It's all in hand	Idioms
+كله تحت السيطرة	It's all in hand	Idioms
 نور عينيا	You're the light of my eyes (my darling)	Idioms
 جاي منين؟	Where are you coming from?	Travel
 رايح فين؟	Where are you headed?	Travel
-لما هتوصل؟	When do you get there?	Travel
+هتوصل إمتى؟	When do you get there?	Travel
 عندك حجز؟	Do you have a reservation?	Travel
 الجواز لو سمحت	Passport please	Travel
 في تأخير؟	Is there a delay?	Travel
-موعد الطيارة امتى؟	When's the flight?	Travel
+الطيارة إمتى؟	When's the flight?	Travel
 التذكرة الإلكترونية معايا	I have the e-ticket	Travel
-الحقائب اترحلت	The bags got checked in	Travel
+الشنط اتشحنت	The bags got checked in	Travel
 فندق كويس ورخيص؟	Any good cheap hotels?	Travel
 أنا حاجز أونلاين	I booked online	Travel
-في بيفيه وله لا؟	Does it include breakfast?	Travel
+شامل الفطار ولا لأ؟	Does it include breakfast?	Travel
 المواصلات صعبة هنا	Transport's a hassle here	Travel
 روح الأمن الأول	Head to security first	Travel
-بكام التأشيرة؟	How much is the visa?	Travel
-مش حاسس بي كويس	I'm not feeling well	Health
-معاه سخونية	He's got a fever	Health
-وجعني دماغي	I've got a pounding headache	Health
+الفيزا بكام؟	How much is the visa?	Travel
+مش حاسس إني كويس	I'm not feeling well	Health
+عنده سخونية	He's got a fever	Health
+دماغي وجعاني	I've got a pounding headache	Health
 الكحة مش بتروح	This cough won't go away	Health
 محتاج أشوف دكتور	I need to see a doctor	Health
 عندك حبوب للصداع؟	You got anything for a headache?	Health
@@ -162,13 +162,13 @@
 الضغط عالي	His blood pressure's high	Health
 زهقت من الدايت	I'm sick of this diet	Health
 خد يومين راحة	Take a couple of days off to rest	Health
-اتعمل تحاليل	I had blood work done	Health
-اللقاح اتاخد	The vaccine was done / I got vaccinated	Health
+عملت تحاليل	I had blood work done	Health
+اتطعمت	The vaccine was done / I got vaccinated	Health
 مش تمام من زمان	I haven't been feeling good for a while	Health
 لازم تاخد بالك من صحتك	You've got to take care of yourself	Health
 اللي هيكون هيكون	Whatever happens, happens	Expressions_Mindset
 ربنا يستر	God protect us / Let's hope for the best	Expressions_Mindset
-الأمور بينا كويسة	Let's handle things properly	Expressions_Mindset
+خلينا نتصرف صح	Let's handle things properly	Expressions_Mindset
 إن شاء الله	God willing / Hopefully	Expressions_Mindset
 ربنا معانا	God's got us	Expressions_Mindset
 بكره أحسن	Tomorrow will be better	Expressions_Mindset
@@ -181,23 +181,23 @@
 ده اللي فيه الخير	There's good in it somehow	Expressions_Mindset
 هتعدي وتعدي	This will pass	Expressions_Mindset
 ده فوق إمكانياتي	This is beyond what I can manage	Expressions_Mindset
-بكره الصبح مبكر	Early tomorrow morning	Time_Scheduling
-بدري بس	Quite early	Time_Scheduling
+بكره الصبح بدري	Early tomorrow morning	Time_Scheduling
+بدري أوي	Quite early	Time_Scheduling
 متأخر شوية	Running a little late	Time_Scheduling
 في أي وقت يناسبك؟	What time works for you?	Time_Scheduling
 بعد الشغل	After work	Time_Scheduling
 قبل الأكل	Before eating	Time_Scheduling
-بدري في الليل	Late into the night	Time_Scheduling
-متاح نهاية الأسبوع؟	Free this weekend?	Time_Scheduling
+نص الليل	Late into the night	Time_Scheduling
+فاضي في الويك إند؟	Free this weekend?	Time_Scheduling
 خليني أشوف جدولي	Let me check my schedule	Time_Scheduling
-هنلتقي الساعة كام؟	What time are we meeting?	Time_Scheduling
-مش متأكد من الموعد	I'm not sure about the time	Time_Scheduling
-فاضي تاني	I'm free tomorrow instead	Time_Scheduling
+هنتقابل الساعة كام؟	What time are we meeting?	Time_Scheduling
+مش متأكد من الميعاد	I'm not sure about the time	Time_Scheduling
+فاضي بكره بدالها	I'm free tomorrow instead	Time_Scheduling
 جاي ناحية الضهر	Sometime around noon	Time_Scheduling
 خلصت بدري	I finished earlier than expected	Time_Scheduling
-موعدنا إيه؟	What's our plan?	Time_Scheduling
+خطتنا إيه؟	What's our plan?	Time_Scheduling
 عندك حق	You're right	Social_Expressions
-معك مية بالمية	You're absolutely right / I'm with you 100%	Social_Expressions
+معاك مية في المية	You're absolutely right / I'm with you 100%	Social_Expressions
 بجد؟!	Seriously?! / No way!	Social_Expressions
 يا ساتر!	Oh wow! / Good grief!	Social_Expressions
 ماشي، تمام	Okay, cool	Social_Expressions
@@ -205,29 +205,29 @@
 روح في داهية	Get lost! (strong)	Social_Expressions
 اللي يريحك	Whatever makes you comfortable	Social_Expressions
 مش هو ده	That's not the point	Social_Expressions
-بلاش كلام فاضي	Cut the small talk	Social_Expressions
+بلاش رغي كتير	Stop rambling / Stop talking too much	Social_Expressions
 قول اللي عندك	Just say what's on your mind	Social_Expressions
 عارف إيه؟	You know what?	Social_Expressions
-بصراحة معاك	I'm being real with you	Social_Expressions
+بصراحة بقى	I'm being real with you	Social_Expressions
 مش لازم	You don't have to	Social_Expressions
 عيب عليك	Shame on you	Social_Expressions
 مش فارقة معايا	I couldn't care less	Social_Expressions
 عادي يعني	It's whatever / No big deal	Social_Expressions
 ده طبيعي	That's totally normal	Social_Expressions
 انت بتهزر؟	Are you kidding me?	Social_Expressions
-حقيقي؟	For real?	Social_Expressions
+بجد؟	For real?	Social_Expressions
 كلام فاضي	That's nonsense / That's hot air	Social_Expressions
 مش مصدقك	I don't believe you	Social_Expressions
-يستاهل الكلام	He deserves it / It's worth it	Social_Expressions
+يستاهل كل خير	He deserves it / It's worth it	Social_Expressions
 ما يستاهلش	It's not worth it	Social_Expressions
 عمل إيه دلوقتي؟	What's he up to now?	Social_Expressions
-معرفش يخلص	He can never finish anything	Social_Expressions
+ما بيعرفش يخلص	He can never finish anything	Social_Expressions
 على راسي	With pleasure / Absolutely (lit. on my head)	Social_Expressions
 أمرك	Your wish is my command	Social_Expressions
 كلامك إنت ده	That's your own opinion	Social_Expressions
 فكرة مش بطالة	That's actually not a bad idea	Social_Expressions
 حلو أوي ده	That's really nice	Social_Expressions
-عيني عليك	I've got my eye on you	Social_Expressions
+أنا مراقبك	I've got my eye on you	Social_Expressions
 ده قلة أدب	That's just rude	Social_Expressions
 لسه؟	Again?! / Still?!	Social_Expressions
 تسلم إيدك	Bless your hands (said after someone helps or cooks)	Compliments_Appreciation
@@ -237,14 +237,14 @@
 ده شغل تحفة	This is top-notch work	Compliments_Appreciation
 ما شاء الله عليك	Mashallah, good for you	Compliments_Appreciation
 انت من الآخر	You're the real deal / You're one of a kind	Compliments_Appreciation
-إيدك خفيفة	You have a light touch / You're talented	Compliments_Appreciation
+إيدك تتلف في حرير	You're extremely talented / gifted touch	Compliments_Appreciation
 الله يبارك فيك	God bless you	Compliments_Appreciation
 عملت حاجة تحفة	You did something great	Compliments_Appreciation
 مش محتاج أشكرك	I can't thank you enough (beyond thanks)	Compliments_Appreciation
 ده من ذوقك	That's so thoughtful of you	Compliments_Appreciation
-أنت إيه ده؟	Look at you! (impressed)	Compliments_Appreciation
-تتجنن فيه	You'd go crazy for it (it's amazing)	Compliments_Appreciation
-كملت الجمال	You're absolutely stunning	Compliments_Appreciation
+إيه الحلاوة دي!	Look at you! (impressed)	Compliments_Appreciation
+هتعجبك أوي	You'd go crazy for it (it's amazing)	Compliments_Appreciation
+زي القمر	You're absolutely stunning	Compliments_Appreciation
 مش قادر أصدق	I can't believe it	Surprise_Reactions
 يا نهار أبيض!	Oh wow! What a day! (positive or negative shock)	Surprise_Reactions
 يا عيني!	Oh my! / Oh dear!	Surprise_Reactions
@@ -252,18 +252,18 @@
 ده جنن	That's insane / That's wild	Surprise_Reactions
 فاجأتني	You surprised me	Surprise_Reactions
 ما توقعتش كده	I didn't expect that at all	Surprise_Reactions
-ده أهو!	There it is! / That's the one!	Surprise_Reactions
-ده فجأة إيه؟	Where did that come from?	Surprise_Reactions
+أهو ده!	There it is! / That's the one!	Surprise_Reactions
+إيه اللي حصل فجأة ده؟	Where did that come from?	Surprise_Reactions
 خد نفس	Take a breath / Calm down	Surprise_Reactions
 كده من غير سابق إنذار؟	Just like that, out of nowhere?	Surprise_Reactions
 ده حصل فعلاً؟	Did that actually happen?	Surprise_Reactions
 مش معقول	No way / That's unbelievable	Surprise_Reactions
 ده غريب	That's weird	Surprise_Reactions
 مش عارف أفسر ده	I can't explain that	Surprise_Reactions
-أنا محتاج أقرض	I need to borrow some money	Money_Finance
+أنا محتاج أستلف	I need to borrow some money	Money_Finance
 عندك فكة؟	You got change?	Money_Finance
 مش معايا كاش	I don't have cash	Money_Finance
-الحساب جاء بكام؟	How much did the bill come to?	Money_Finance
+الحساب طلع كام؟	How much did the bill come to?	Money_Finance
 دفعت أكتر من اللازم	I overpaid	Money_Finance
 الفلوس راحت	The money's gone	Money_Finance
 مرتبي خلص من أول الشهر	My salary ran out at the start of the month	Money_Finance
@@ -272,18 +272,18 @@
 فاضل فلوس؟	Any money left?	Money_Finance
 لازم أوفر	I need to start saving	Money_Finance
 الإيجار غالي أوي	The rent is way too high	Money_Finance
-غرق في الديون	He racked up debts	Money_Finance
+غرقان في الديون	He racked up debts	Money_Finance
 هسدد الديون بكره	I'll pay off my debts tomorrow	Money_Finance
 الفلوس مش بتكفي	The money just doesn't stretch far enough	Money_Finance
 ده مين؟	Who's that?	People_Relationships
 صاحبي القديم	My old buddy	People_Relationships
-عارفوه من زمان	I've known him forever	People_Relationships
+عارفه من زمان	I've known him forever	People_Relationships
 ما بنتكلمش كتير	We don't talk much	People_Relationships
 بيننا مشكلة	There's an issue between us	People_Relationships
 قريب مني جداً	He's very close to me	People_Relationships
 مش بيفهمني	He doesn't get me	People_Relationships
 طيب جداً	He's a really good person	People_Relationships
-وثوق فيه كتير	I trust him a lot	People_Relationships
+باثق فيه أوي	I trust him a lot	People_Relationships
 ما بثقش فيه	I don't trust him	People_Relationships
 بيحبنا	He cares about us	People_Relationships
 عمل مشكلة معايا	He caused trouble with me	People_Relationships
@@ -301,13 +301,13 @@
 أمي طبخت	My mom cooked	Family_Home
 أبويا بيصلح	My dad's fixing something	Family_Home
 أخويا صاحي؟	Is my brother up?	Family_Home
-البنت مذاكرة	My daughter's studying	Family_Home
+البنت بتذاكر	My daughter's studying	Family_Home
 الولد راح المدرسة	The boy went to school	Family_Home
 عندنا ضيوف	We've got guests over	Family_Home
-البيت متقلب	The house is a mess	Family_Home
+البيت مكركب	The house is a mess	Family_Home
 متسيبش ده يعدي	Don't let this slide	Conflict_Resolution
 اعتذر منه	Apologize to him	Conflict_Resolution
-مش هسامح بسهل	I don't forgive easily	Conflict_Resolution
+مش هسامح بسهولة	I don't forgive easily	Conflict_Resolution
 عايز نحل الموضوع	I want to sort this out	Conflict_Resolution
 مش وقتها نتخانق	This isn't the time to fight	Conflict_Resolution
 خلّيها تفوت	Let it go	Conflict_Resolution
@@ -315,7 +315,7 @@
 مش قصدي	I didn't mean it	Conflict_Resolution
 أنا اعتذرت	I already apologized	Conflict_Resolution
 مش هفتح الموضوع تاني	I'm not bringing this up again	Conflict_Resolution
-قول اللي عندك صريح	You need to be straight with me	Conflict_Resolution
+قول اللي عندك بصراحة	You need to be straight with me	Conflict_Resolution
 انت اللي ابتدي	You started it	Conflict_Resolution
 اعمل حساب كلامك	Watch what you say	Conflict_Resolution
 مش هقول حاجة تاني	I'm not saying another word	Conflict_Resolution
@@ -324,12 +324,12 @@
 بتتفرج على إيه؟	What are you watching?	Entertainment
 في حاجة حلوة على النتفليكس؟	Anything good on Netflix?	Entertainment
 دي أغنية بتجنن	This song is an absolute banger	Entertainment
-قاعد أبلع مسلسل	I'm binging a series	Entertainment
-الملعب هيشتعل	The stadium's gonna go crazy	Entertainment
-شايل تذاكر؟	Got tickets?	Entertainment
+قاعد بخلص مسلسل	I'm binging a series	Entertainment
+الملعب هيولع	The stadium's gonna go crazy	Entertainment
+معاك تذاكر؟	Got tickets?	Entertainment
 دي لعبة تجنن	This game is insane	Entertainment
 محدش يكلمني دلوقتي بتفرج	Nobody talk to me, I'm watching	Entertainment
-اتحفظت الأغنية دي	I learned this song by heart	Entertainment
+حفظت الأغنية دي خلاص	I learned this song by heart	Entertainment
 خلصوا الموسم؟	Did they finish the season?	Entertainment
 عندك توصية؟	Got a recommendation?	Entertainment
 النهاية دهشتني	The ending blew my mind	Entertainment
@@ -343,34 +343,34 @@
 الهواء وحش	The air quality is terrible	Weather_Environment
 الجو ماشي	The weather's decent	Weather_Environment
 حر خانق	The heat is suffocating	Weather_Environment
-هتنزل الشتا دلوقتي؟	Are you going out in this rain now?	Weather_Environment
-في عاصفة قادمة	There's a storm coming	Weather_Environment
+هتنزل في المطرة دي دلوقتي؟	Are you going out in this rain now?	Weather_Environment
+في عاصفة جاية	There's a storm coming	Weather_Environment
 برد الليل بياخد في الدماغ	The cold at night hits different	Weather_Environment
 الجو مش ثابت	The weather's all over the place	Weather_Environment
 الدفا جميل أوي	The warmth feels nice	Weather_Environment
 الشتا جاي بدري السنة دي	Winter came early this year	Weather_Environment
-قلبي في الصيف	I'm a summer person at heart	Weather_Environment
+أنا بتاع صيف	I'm a summer person at heart	Weather_Environment
 بتشتغل إيه؟	What do you do for work?	Small_Talk
 ساكن فين؟	Where do you live?	Small_Talk
 من أيام الجامعة؟	Since college?	Small_Talk
 متجوز؟	Are you married?	Small_Talk
 عندك عيال؟	You got kids?	Small_Talk
 بتاكل هنا كتير؟	You come here often to eat?	Small_Talk
-الحي ده عاملك عامل إيه؟	How's the neighborhood treating you?	Small_Talk
+الحي ده عامل معاك إيه؟	How's the neighborhood treating you?	Small_Talk
 بتسافر كتير؟	Do you travel a lot?	Small_Talk
 من أهل فين؟	Where are you originally from?	Small_Talk
 بتحب الكورة؟	Are you into football?	Small_Talk
 إيه هوايتك؟	What are your hobbies?	Small_Talk
 عارفنا من قبل؟	Have we met before?	Small_Talk
-وجهك معروف	Your face looks familiar	Small_Talk
+وشك معروف	Your face looks familiar	Small_Talk
 طول عمرك هنا؟	Have you always been here?	Small_Talk
 ناوي تعمل إيه الويك إند؟	What are you planning this weekend?	Small_Talk
 حاسس إن في حاجة غلط	I feel like something's off	Intuition_Opinions
 دي مش فكرة كويسة	That's not a good idea	Intuition_Opinions
 في حاجة مش ماشية	Something's not right here	Intuition_Opinions
 ده مش طبيعي خالص	That's completely abnormal	Intuition_Opinions
-حدسي بيقولي لأ	My gut says no	Intuition_Opinions
-ما بيبانش تمام	It doesn't look right	Intuition_Opinions
+قلبي بيقولي لأ	My gut says no	Intuition_Opinions
+شكله مش مريح	It doesn't look right	Intuition_Opinions
 ده مش زي ما قالوا	This isn't what they said it would be	Intuition_Opinions
 مش مقتنع	I'm not convinced	Intuition_Opinions
 مش واثق من الموضوع	I'm not sure about this	Intuition_Opinions
@@ -378,7 +378,7 @@
 الأمور مش واضحة	Things aren't clear	Intuition_Opinions
 في تفاصيل ناقصة	There are missing details	Intuition_Opinions
 ما فيش دليل	There's no proof	Intuition_Opinions
-مش هثق في أول كلام	I won't trust the first thing I hear	Intuition_Opinions
+مش هصدق أي كلام	I won't trust the first thing I hear	Intuition_Opinions
 ده مش آخره	This isn't the end of it	Intuition_Opinions
 إيه المشكلة؟	What's the problem?	Problem_Solving
 محتاج حل دلوقتي	I need a solution right now	Problem_Solving
@@ -392,11 +392,11 @@
 لازم نفكر تاني	We need to rethink this	Problem_Solving
 في بديل؟	Is there an alternative?	Problem_Solving
 الموضوع معقد	This is complicated	Problem_Solving
-مش تقدر تحله لوحدك	You can't solve this alone	Problem_Solving
+ما تقدرش تحله لوحدك	You can't solve this alone	Problem_Solving
 دي مسؤوليته مش بتاعتي	That's his responsibility, not mine	Problem_Solving
 الحل في إيدك	The solution is in your hands	Problem_Solving
 قصدك إيه؟	What do you mean?	Communication_Clarity
-مش فاهم عليك	I'm not following you	Communication_Clarity
+مش فاهمك	I'm not following you	Communication_Clarity
 فهّمني أكتر	Spell it out for me	Communication_Clarity
 قولها صريح من غير لف ودوران	Just say it straight	Communication_Clarity
 اتكلم واضح	Speak clearly	Communication_Clarity
@@ -409,27 +409,27 @@
 لأ، مش كده	No, that's not it	Communication_Clarity
 فاهم غلط	You've got it wrong	Communication_Clarity
 بالظبط ده قصدي	Exactly, that's what I meant	Communication_Clarity
-الشغل مرهق	Work is exhausting	Work_Business
+الشغل يهد الحيل	Work is exhausting	Work_Business
 في اجتماع مهم	There's an important meeting	Work_Business
 الملف اتبعت	The file was sent	Work_Business
-محتاج تمديد للمهلة	I need a deadline extension	Work_Business
+محتاج وقت زيادة	I need a deadline extension	Work_Business
 الدليفري اتأخر	The delivery is late	Work_Business
 الكلاينت مش راضي	The client isn't happy	Work_Business
 عندنا تارجت كبير	We have a big target	Work_Business
 البريزنتيشن جاهز	The presentation is ready	Work_Business
 البودجيت خلص	The budget is gone	Work_Business
-محتاج أبرر الغياب بتاعي	I need to justify my absence	Work_Business
-الشغل من البيت بيجنن	Remote work is a blessing	Work_Business
+محتاج ألاقي عذر عشان غبت	I need to justify my absence	Work_Business
+الشغل من البيت نعمة	Remote work is a blessing	Work_Business
 كل يوم نفس الروتين	Same routine every single day	Work_Business
 محتاج أتدرب على ده	I need training on this	Work_Business
 في حاجة مش ماشية في الشركة	Something's off in the company	Work_Business
 بص في التقرير	Take a look at the report	Work_Business
-ماشي على أي حاجة دلوقتي؟	Working on anything right now?	Work_Business
+شغال في حاجة دلوقتي؟	Working on anything right now?	Work_Business
 سلّم على الكل	Say hi to everyone for me	Work_Business
 طول عمره بيتأخر	He's always late	Work_Business
 ده مش شغلتي	That's outside my area	Work_Business
 خلص التدريب؟	Done with the training?	Work_Business
-مش عندك مانع؟	You don't have any objections?	Negotiation_Persuasion
+ما عندكش مانع؟	You don't have any objections?	Negotiation_Persuasion
 ده في مصلحتنا الاتنين	This is best for both of us	Negotiation_Persuasion
 خليني أفكر	Let me think about it	Negotiation_Persuasion
 ممكن نوصل لحل وسط؟	Can we reach a middle ground?	Negotiation_Persuasion
@@ -440,24 +440,24 @@
 الاتفاق ده محتاج توقيع	This agreement needs a signature	Negotiation_Persuasion
 في شروط تانية؟	Are there other conditions?	Negotiation_Persuasion
 ده معقول أوي	That's very reasonable	Negotiation_Persuasion
-بنقدر نمشي على ده	We can work with that	Negotiation_Persuasion
+ممكن نمشي الدنيا كده	We can work with that	Negotiation_Persuasion
 ما ينفعش كده	That won't work	Negotiation_Persuasion
 ده مش في مصلحتي	That's not in my interest	Negotiation_Persuasion
 نكمّل بكره؟	Can we continue this tomorrow?	Negotiation_Persuasion
-إنت مين ده؟	Who do you think you are?	Street_Slang
+إنت فاكر نفسك مين؟	Who do you think you are?	Street_Slang
 ده ولا في الأحلام	Not even in your dreams	Street_Slang
 عدّي من هنا	Move along / Get out of here	Street_Slang
-روح شيل همك	Go deal with your own problems	Street_Slang
+شوف حالك	Go deal with your own problems	Street_Slang
 مش دخلك	None of your business	Street_Slang
 ما تسألش في اللي مش شغلك	Don't ask about things that aren't your business	Street_Slang
-ده واد وجهه وجه	That guy's a real piece of work	Street_Slang
+ده واد بجح	That guy's a real piece of work	Street_Slang
 دي قصة تانية	That's a different story	Street_Slang
 كلامك بيروح في الهوا	You're talking to thin air	Street_Slang
-شيل نفسك من هنا	Get yourself together	Street_Slang
+فوق لنفسك	Get yourself together	Street_Slang
 ده مش وقته	This isn't the time for that	Street_Slang
 باظت الدنيا	Everything's gone to pieces	Street_Slang
 ده راجل فاضي	That guy has nothing going on	Street_Slang
-بيعمل نفسه ناعم	He's faking it / He's putting on an act	Street_Slang
+بيتمسكن	He's faking it / He's putting on an act	Street_Slang
 الدنيا مش كده	Life doesn't work that way	Street_Slang
 الواد ده فهلوي	That guy is street-smart / cunning	Street_Slang
 ما بيخليش حاجة	He never lets anything slide	Street_Slang
@@ -465,7 +465,7 @@
 ما بيبانش عليه حاجة	It doesn't show on him	Street_Slang
 ده راجل يخوف	That guy is intimidating	Street_Slang
 بتحاول تعمل إيه بالظبط؟	What exactly are you trying to do?	Street_Slang
-الجيم أحسن قرار اتخذته	Going to the gym is the best thing I ever did	Health_Fitness
+الجيم أحسن قرار أخدته	Going to the gym is the best thing I ever did	Health_Fitness
 لازم تتحرك أكتر	You need to move more	Health_Fitness
 بتروح جيم؟	Do you go to the gym?	Health_Fitness
 بتاكل صح؟	Are you eating right?	Health_Fitness
@@ -473,13 +473,13 @@
 محتاج تنام أكتر	You need more sleep	Health_Fitness
 السكر ده سُمّ	Sugar is poison	Health_Fitness
 لازم أتحرك أكتر	I need to move more	Health_Fitness
-بداية الأسبوع جيم	Monday is gym day	Health_Fitness
+بداية الأسبوع جيم	Sunday is gym day (Egypt start)	Health_Fitness
 بطل صودا	Cut out the soda	Health_Fitness
 شرب مية كفاية؟	Drinking enough water?	Health_Fitness
 الضغط العالي خطير	High blood pressure is dangerous	Health_Fitness
 بيتبع دايت؟	Is he on a diet plan?	Health_Fitness
 الضغط بيأثر على صحتك	Stress affects your health	Health_Fitness
-خلي ساعة بعد الأكل	Wait after you eat	Health_Fitness
+استنى ساعة بعد الأكل	Wait after you eat	Health_Fitness
 بتتفلسف دلوقتي؟	Are you philosophizing right now?	Deep_Talk
 الحياة مش سهلة	Life isn't easy	Deep_Talk
 في حاجات فوق طاقتنا	There are things bigger than us	Deep_Talk
@@ -499,71 +499,71 @@
 النت واقف	The internet's down	Technology_Digital
 الشبكة ضعيفة	The signal's weak	Technology_Digital
 التليفون مش بيشتغل	The phone isn't working	Technology_Digital
-شحن التليفون وقع	My phone battery's dead	Technology_Digital
+بطارية الموبايل فصلت	My phone battery's dead	Technology_Digital
 حمّل التطبيق ده	Download this app	Technology_Digital
 ابعتلي اللوكيشن	Send me your location	Technology_Digital
 الشاشة اتكسرت	The screen cracked	Technology_Digital
 الباسورد بتاعي نسيته	I forgot my password	Technology_Digital
 أبديت الموبايل؟	Did you update your phone?	Technology_Digital
-في ميسج جاك	You got a message	Technology_Digital
+في رسالة جاتلك	You got a message	Technology_Digital
 لايك الصورة	Like the photo	Technology_Digital
 الستوري بتاعته حلوة	His story was nice	Technology_Digital
 شير المنشور	Share the post	Technology_Digital
 الأونلاين بتاعك ظاهر	Your online status is showing	Technology_Digital
-شاطر وعنده وقت فراغ	Smart but going nowhere	Idioms_B1
-جوّاه بيتعب	Broken on the inside	Idioms_B1
+شاطر بس محلك سر	Smart but going nowhere	Idioms_B1
+تعبان من جوه	Broken on the inside	Idioms_B1
 قلبه أبيض	He has a pure heart	Idioms_B1
-عنده وش	He's got a thick face / shameless	Idioms_B1
-ضرب الجاكبوت	He hit the jackpot	Idioms_B1
+عنده بجاحة	He's got a thick face / shameless	Idioms_B1
+ضربت معاه	He hit the jackpot	Idioms_B1
 تمنى الأرض تبلعه	He wanted the ground to swallow him	Idioms_B1
-طلع من جلده	He finally broke free	Idioms_B1
+فك قيوده أخيراً	He finally broke free	Idioms_B1
 بيلعب بالنار	He's playing with fire	Idioms_B1
-بيضرب في الهوا	He's banging his head against a wall	Idioms_B1
+بيأذن في مالطا	He's banging his head against a wall	Idioms_B1
 في خير وعافية	In good health and peace	Idioms_B1
-ما استمتعش بيها	He never enjoyed its good side	Idioms_B1
+ما اتهناش بيها	He never enjoyed its good side	Idioms_B1
 ما يجيش منه حاجة كويسة	Nothing good comes from him	Idioms_B1
-طايح على بعضه	He's falling apart	Idioms_B1
+واقع من طوله	He's falling apart	Idioms_B1
 رماه في الريح	He wasted it / threw it to the wind	Idioms_B1
 قلبي طلع	I was scared out of my mind	Idioms_B1
 شايف مصلحة نفسه	He's always looking out for himself	Idioms_B1
 حطه في وسط عينيه	He held him in the highest regard	Idioms_B1
-شال حساب نفسه	He looked out for himself	Idioms_B1
+عمل حساب لنفسه	He looked out for himself	Idioms_B1
 الدنيا مكملتش	Nothing's perfect in this world	Idioms_B1
-ماشي هادي بهادي	He keeps a low profile (walks along the wall)	Idioms_B1
-طلع نفسي	I was completely wiped out / it nearly killed me	Idioms_B1
+ماشي جنب الحيط	He keeps a low profile (walks along the wall)	Idioms_B1
+طلعت روحي	I was completely wiped out / it nearly killed me	Idioms_B1
 عمل نفسه ميت	He played dead / he ignored everything	Idioms_B1
 ما بيخافش من ربنا	He has no fear of God	Idioms_B1
 وخلاص	That's it. Period.	Idioms_B1
-مش هيكون معاك لما تحتاجه	He'll never be there for you when it counts	Idioms_B2
-رجله في الوحل	He's got one foot in trouble	Idioms_B2
+مش هتلاقيه لما تعوزه	He'll never be there for you when it counts	Idioms_B2
+رجل في الغرزة	He's got one foot in trouble	Idioms_B2
 لو سمعته هتضحك	If you heard him you'd laugh	Idioms_B2
 بيصحّي الميتين	He'd wake the dead	Idioms_B2
 بيلم الهوا	He's hoarding thin air / wasting effort	Idioms_B2
 ناسي ربنا	He carries on like God doesn't exist	Idioms_B2
-ده مش على السكة	That's not on the agenda	Idioms_B2
+ده مش في الحسبان	That's not on the agenda	Idioms_B2
 بالزور والقوة	By sheer force / the hard way	Idioms_B2
 حطّها في دماغك	Get this through your head	Idioms_B2
 ده فات أوانه	That ship has sailed	Idioms_B2
 الكلمة بتأثر أكتر من الحجر	Words hit harder than stones	Idioms_B2
 فضل كلام ما اتقالش	It was left unsaid	Idioms_B2
 الموت أحسن منه	I'd rather be dead than deal with him (total exasperation)	Idioms_B2
-ده على حساب البيت	It's on the house / my treat	Idioms_B2
+ده على حساب المحل	It's on the house / my treat	Idioms_B2
 عينيه على قفاه	He has eyes in the back of his head	Idioms_B2
-خد الدنيا برفق	Ease into life — don't force it	Idioms_B2
+خد الدنيا ببساطة	Ease into life — don't force it	Idioms_B2
 بيشتغل في الفاضي	He's spinning his wheels — totally pointless	Idioms_B2
 دايماً جاهز	Always ready for what's next	Idioms_B2
 قاعد على الفاضي	He's not lifting a finger	Idioms_B2
-بيبكي على اللبن المسكوب	He's crying over spilled milk	Idioms_B2
+بيندم على اللي فات	He's crying over spilled milk	Idioms_B2
 ما تعلقش أملك فيه	Don't get your hopes up about him	Idioms_B2
 بيضيع تحت الضغط	He can't handle pressure	Idioms_B2
-اخدها بالنفس	He pulled it off by sheer grit	Idioms_B2
-ده ولد آخره الخير	That kid will turn out great	Idioms_B2
+أخدها بالعافية	He pulled it off by sheer grit	Idioms_B2
+ده ولد فيه الخير	That kid will turn out great	Idioms_B2
 بعد عن وشي	Get out of my face	Idioms_B2
-هشوف ما ينفع	I'll figure out what works	Daily_Life::Planning
+هشوف إيه اللي ينفع	I'll figure out what works	Daily_Life::Planning
 هنعمل برنامج	We'll put a plan together	Daily_Life::Planning
 هاجيب الحاجات	I'll get the stuff	Daily_Life::Planning
-محتاج تذكر	I need a reminder	Daily_Life::Planning
-اتذكر المشوار؟	Remember the errand?	Daily_Life::Planning
+محتاج حد يفكرني	I need a reminder	Daily_Life::Planning
+فاكر المشوار؟	Remember the errand?	Daily_Life::Planning
 في إيه على أجندتك؟	What's on your agenda?	Daily_Life::Planning
 كل حاجة جاهزة؟	Is everything ready?	Daily_Life::Planning
 شيل الحاجة دي معاك	Take this thing with you	Daily_Life::Planning
@@ -577,7 +577,7 @@
 أنا هاجيب القهوة	I'll grab the coffee	Daily_Life::Cafe
 عايز إيه في القهوة؟	How do you take your coffee?	Daily_Life::Cafe
 بدون سكر	No sugar	Daily_Life::Cafe
-تقيل أوي السكر	Too sweet for me	Daily_Life::Cafe
+سكر زيادة	Extra sugar (coffee order style)	Daily_Life::Cafe
 قهوة سادة لو سمحت	Black coffee please	Daily_Life::Cafe
 كابتشينو أحسن دلوقتي	I could go for a cappuccino right now	Daily_Life::Cafe
 في طاولة فاضية؟	Is there an empty table?	Daily_Life::Cafe
@@ -585,7 +585,7 @@
 هنا واي فاي؟	Is there WiFi here?	Daily_Life::Cafe
 الباسورد بتاع الواي فاي إيه؟	What's the WiFi password?	Daily_Life::Cafe
 الأوردر جاي إمتى؟	When's the order coming?	Daily_Life::Cafe
-جاي تانٍ من ده	I'll have another of the same	Daily_Life::Cafe
+هات واحد كمان من ده	I'll have another of the same	Daily_Life::Cafe
 بارد أوي، سخنيه شوية	Too cold, warm it up a bit	Daily_Life::Cafe
 ده مش طلبي	That's not what I ordered	Daily_Life::Cafe
 مش عايز حاجة تانية، شكراً	Nothing else, thanks	Daily_Life::Cafe
@@ -595,29 +595,29 @@
 الأسانسير باظ	The elevator is broken	Housing
 في عطل في الحنفية	There's a leak in the tap	Housing
 الكهربا اتقطعت	The electricity cut out	Housing
-المواسير عندها مشكلة	There's a problem with the pipes	Housing
+المواسير فيها مشكلة	There's a problem with the pipes	Housing
 الإيجار اتأجل	The rent got delayed	Housing
 العقد بيتجدد	The contract is being renewed	Housing
-الشقة واسعة بس دماغها وحشة	The apartment's spacious but has bad feng shui	Housing
+الشقة واسعة بس روحها وحشة	The apartment's spacious but has bad feng shui	Housing
 دور تاني أحسن ليك	A higher floor would be better for you	Housing
-الحوش واسع	The yard is spacious	Housing
-في مصعد؟	Is there an elevator?	Housing
+الجنينة واسعة	The yard is spacious	Housing
+في أسانسير؟	Is there an elevator?	Housing
 بدور على شقة تاني	I'm looking for a different apartment	Housing
 السكن ده مريح	This place is comfortable	Housing
-النوم تعبان	I slept terribly	Daily_Life::Morning_Routine
+نومتي كانت وحشة	I slept terribly	Daily_Life::Morning_Routine
 الفطار جاهز؟	Is breakfast ready?	Daily_Life::Morning_Routine
 صحيت متأخر	I woke up late	Daily_Life::Morning_Routine
 ما نمتش كويس	I didn't sleep well	Daily_Life::Morning_Routine
 بصحى بدري عادةً	I usually wake up early	Daily_Life::Morning_Routine
-اتحممت؟	Did you shower?	Daily_Life::Morning_Routine
+استحميت؟	Did you shower?	Daily_Life::Morning_Routine
 الساعة كام دلوقتي؟	What time is it now?	Daily_Life::Morning_Routine
 في وقت؟	Is there time?	Daily_Life::Morning_Routine
 هتتأخر على الشغل	You're gonna be late for work	Daily_Life::Morning_Routine
 أول حاجة بعمل قهوة	First thing I do is make coffee	Daily_Life::Morning_Routine
-هو صحيان ولا لسه؟	Is he up or still sleeping?	Daily_Life::Morning_Routine
-مش صاحي لحد دلوقتي	Not awake yet	Daily_Life::Morning_Routine
+هو صاحي ولا لسه؟	Is he up or still sleeping?	Daily_Life::Morning_Routine
+لسه ما صحيش لحد دلوقتي	Not awake yet	Daily_Life::Morning_Routine
 النهارده بدأ غلط	Today started off wrong	Daily_Life::Morning_Routine
-الصبح عندي عينين	In the morning I'm half-asleep and grumpy	Daily_Life::Morning_Routine
+الصبح بكون لسه مش مجمع	In the morning I'm half-asleep and grumpy	Daily_Life::Morning_Routine
 ساعة كمان وهصحى	An hour more and I'll get up	Daily_Life::Morning_Routine
 تعال نتكلم	Come, let's talk	Social_Bonding
 بقالنا فترة مش شايفين بعض	It's been a while since we've seen each other	Social_Bonding
@@ -626,19 +626,19 @@
 أنا هنا لو احتجت	I'm here if you need me	Social_Bonding
 مش لازم تشيله لوحدك	You don't have to carry this alone	Social_Bonding
 إحنا مع بعض	We're in this together	Social_Bonding
-صاحب في وقت الضيقة	A friend in need	Social_Bonding
+الصاحب في وقت الضيق	A friend in need	Social_Bonding
 تعال نعمل حاجة مع بعض	Let's do something together	Social_Bonding
 محتاج تاخد هواء؟	Do you need some air / a break?	Social_Bonding
 الأصحاب دول هم الأصحاب	Those are the real friends	Social_Bonding
-بنحمل بعض	We've got each other's backs	Social_Bonding
+شايلين بعض	We've got each other's backs	Social_Bonding
 ما تسيبنيش	Don't leave me hanging	Social_Bonding
 إنت مش وحدك	You're not alone	Social_Bonding
-ده أخويا من أمه وأبوه	He's like a brother to me	Social_Bonding
+ده زي أخويا بالظبط	He's like a brother to me	Social_Bonding
 البضاعة أصلية؟	Is this genuine / authentic?	Shopping_Advanced
 في ضمان؟	Is there a warranty?	Shopping_Advanced
 الضمان بيغطي إيه؟	What does the warranty cover?	Shopping_Advanced
 ممكن أرجعه لو مش عاجبني؟	Can I return it if I don't like it?	Shopping_Advanced
-ده إصدار جديد؟	Is this the latest version?	Shopping_Advanced
+ده موديل جديد؟	Is this the latest version?	Shopping_Advanced
 في موديل أحدث؟	Is there a newer model?	Shopping_Advanced
 فيه اللون ده تاني؟	Do you have this in a different color?	Shopping_Advanced
 القماش ده بيتغسل ولا لأ؟	Is this fabric washable?	Shopping_Advanced
@@ -648,33 +648,33 @@
 الشحن بكام؟	How much is the shipping?	Shopping_Advanced
 الطلب وصل امتى؟	When does the order arrive?	Shopping_Advanced
 في فرع تاني أقرب؟	Is there a closer branch?	Shopping_Advanced
-بقدر آخد إجازة امتى؟	When can I take time off?	Work_Rights
+ممكن آخد إجازة إمتى؟	When can I take time off?	Work_Rights
 في أوفر تايم هنا؟	Is there overtime here?	Work_Rights
-الأجازة المرضية بتشتغل إزاي؟	How does sick leave work here?	Work_Rights
+الأجازة المرضية نظامها إيه؟	How does sick leave work here?	Work_Rights
 في تأمين صحي؟	Is there health insurance?	Work_Rights
-الراتب بيتدفع امتى؟	When is the salary paid?	Work_Rights
+المرتب بيتدفع امتى؟	When is the salary paid?	Work_Rights
 محتاج شهادة خبرة	I need an experience letter	Work_Rights
 في بونص آخر السنة؟	Is there a year-end bonus?	Work_Rights
 الشغل بيبدأ الساعة كام؟	What time does work start?	Work_Rights
 في ساعات مرونة؟	Is there flexible working hours?	Work_Rights
-هل ممكن أشتغل من البيت؟	Can I work from home?	Work_Rights
+ممكن أشتغل من البيت؟	Can I work from home?	Work_Rights
 اشتغلت فين قبل ده؟	Where did you work before?	Work_Rights
 عندك خبرة في ده؟	Do you have experience with this?	Work_Rights
-الإنترفيو بيبقى كيف؟	What's the interview like?	Work_Rights
+الإنترفيو بيبقى إزاي؟	What's the interview like?	Work_Rights
 محتاج تزكية؟	Do I need a reference?	Work_Rights
 فين أبعت السيرة الذاتية؟	Where do I send my CV?	Work_Rights
 بتفاوض؟	Do you negotiate?	Work_Rights
 في فترة تجربة؟	Is there a probation period?	Work_Rights
 ده شغل فل تايم؟	Is this full-time?	Work_Rights
 بارت تايم ينفع؟	Would part-time work?	Work_Rights
-الرول بتاعي بيشمل إيه؟	What does the role include?	Work_Rights
+دوري هنا إيه بالظبط؟	What does the role include?	Work_Rights
 جوعان بس ما فيش وقت آكل	Hungry but no time to eat	Daily_Life::Hustle
 يوم طويل من الآخر	It's been one hell of a long day	Daily_Life::Hustle
 ما خلصتش شغل من امبارح	Haven't finished yesterday's work	Daily_Life::Hustle
 ماشي بالبركة	Running on fumes / by God's grace	Daily_Life::Hustle
 محتاج أخد نفس	I need to catch my breath	Daily_Life::Hustle
 دور على حل وانت ماشي	Find a solution on the go	Daily_Life::Hustle
-مش قادر أقف	Can't stop moving	Daily_Life::Hustle
+مش قادر أقف	I'm too tired to stand	Daily_Life::Hustle
 في ألف حاجة على دماغي	A thousand things on my mind	Daily_Life::Hustle
 شغال من الصبح للليل	Working from morning to night	Daily_Life::Hustle
 ما عنديش وقت فاضي خالص	I have zero free time	Daily_Life::Hustle
@@ -700,10 +700,10 @@
 ده كان درس كبير	That was a big lesson	Memory_Nostalgia
 سافرت برة قبل؟	Have you traveled abroad before?	Travel_Advanced
 الفيزا بتاخد وقت؟	Does the visa take long?	Travel_Advanced
-في حاجة تتحاشاها هناك؟	Anything to avoid there?	Travel_Advanced
-الدراهم ولا الدولار أحسن هناك؟	Better to have dirhams or dollars there?	Travel_Advanced
+في حاجة أتجنبها هناك؟	Anything to avoid there?	Travel_Advanced
+الفلوس ولا الدولار أحسن هناك؟	Better to have dirhams or dollars there?	Travel_Advanced
 فندق ولا شقة مفروشة؟	Hotel or furnished apartment?	Travel_Advanced
-الطقس عامل إيه في هذا الوقت؟	What's the weather like at that time of year?	Travel_Advanced
+الجو عامل إيه اليومين دول؟	What's the weather like at that time of year?	Travel_Advanced
 في حاجة لازم آخدها معايا؟	Is there something I must take with me?	Travel_Advanced
 أمان ولا لأ؟	Is it safe or not?	Travel_Advanced
 ليه بالذات المكان ده؟	Why specifically that place?	Travel_Advanced
@@ -711,23 +711,23 @@
 اللغة صعبة؟	Is the language difficult?	Travel_Advanced
 ينفع بالإنجليزي بس؟	Can I get by with just English?	Travel_Advanced
 في tour guide محترم؟	Is there a professional tour guide?	Travel_Advanced
-أيام كام كفايه؟	How many days are enough?	Travel_Advanced
-المصاريف المناسبة قد إيه؟	What's a suitable budget?	Travel_Advanced
-مش بقدر أوقف	I can't stop (addicted to something fun)	Expressions_B2
-ده أحسن قرار اتخذته	That's the best decision I ever made	Expressions_B2
+كام يوم كفاية؟	How many days are enough?	Travel_Advanced
+الميزانية المناسبة قد إيه؟	What's a suitable budget?	Travel_Advanced
+مش قادر أبطل	I can't stop (addicted to something fun)	Expressions_B2
+ده أحسن قرار أخدته	That's the best decision I ever made	Expressions_B2
 ما بتوقعتش كده	I didn't see that coming	Expressions_B2
 اللي بيحصل مش طبيعي	What's happening isn't normal	Expressions_B2
 ده فاق توقعاتي	This exceeded my expectations	Expressions_B2
-بقيت ماشي زي الأعمى	I was walking around blind	Expressions_B2
+كنت ماشي على عمايا	I was walking around blind	Expressions_B2
 الموضوع أكبر مني	The situation is bigger than me	Expressions_B2
 فضلت أفكر فيه الليل كله	I was up all night thinking about it	Expressions_B2
 ده غيّر نظرتي للأمور	That changed my perspective on things	Expressions_B2
 بدأت أشوف الدنيا بعين تانية	I started seeing the world differently	Expressions_B2
 مش كل حاجة بتبان صح بتكون صح	Not everything that looks right is right	Expressions_B2
 لازم تعيشها عشان تفهمها	You have to live it to understand it	Expressions_B2
-ده مش في كتاب	That's not in any book	Expressions_B2
+ده ملوش كتالوج	That's not in any book	Expressions_B2
 فيه ألف طريقة تعمله	There are a thousand ways to do it	Expressions_B2
-الخبرة بتعلم اللي الكتاب ما علمهوش	Experience teaches what books can't	Expressions_B2
+المرمطة بتعلم أكتر من الكتب	Experience teaches what books can't	Expressions_B2
 محتاج أتكيف مع الوضع	I need to adapt to the situation	Adaptability
 كل حاجة اتغيرت	Everything has changed	Adaptability
 لازم أتأقلم	I have to adjust	Adaptability
@@ -753,7 +753,7 @@
 الموضوع من الأول والآخر غلط	The whole thing is wrong from start to finish	Frustration_B2
 عملت اللي عليا وبس	I did my part, that's it	Frustration_B2
 مش هزيد على ده	I'm not doing more than this	Frustration_B2
-خلص طاقتي	I've run out of energy	Frustration_B2
+طاقتي خلصت	I've run out of energy	Frustration_B2
 ما حدش قدّر	Nobody appreciated it	Frustration_B2
 تعبت من الانتظار	I'm tired of waiting	Frustration_B2
 الصبر وله حدود	Patience has its limits	Frustration_B2
@@ -761,7 +761,7 @@
 بيتكلم ببجاحة	He talks with nerve / He's got gall	Character_Descriptions
 راجل عنيد من آخره	He's stubborn to the core	Character_Descriptions
 هي دايما ناقدة	She's always critical	Character_Descriptions
-شخصيته تقيلة	He's got a heavy personality / He's a drag	Character_Descriptions
+دمه تقيل	He's a drag / annoying	Character_Descriptions
 ده حساس أوي	He's very sensitive	Character_Descriptions
 ما عندهاش حدود	She has no boundaries	Character_Descriptions
 ولد محترم	He's a decent guy	Character_Descriptions
@@ -771,10 +771,10 @@
 شخصية فيها حاجة	There's something about his personality	Character_Descriptions
 كريم من غير حدود	Generous beyond limits	Character_Descriptions
 بخيل ومش هيتغير	Stingy and won't change	Character_Descriptions
-ما بيصفاش	He can't sit still — he's restless	Character_Descriptions
+ما بيفصلش	He can't sit still — he's restless	Character_Descriptions
 ده متوازن في شخصيته	He's balanced as a person	Character_Descriptions
 قمر لما بتبص فيه	So beautiful it's like looking at the moon	Compliments_B2
-ده ذكاء وحشي	That's wild intelligence	Compliments_B2
+ده ذكاء جبار	That's wild intelligence	Compliments_B2
 شاطر بالفطرة	Naturally talented	Compliments_B2
 ذوقه رفيع	He has refined taste	Compliments_B2
 بيفهم من إشارة	He gets the hint right away	Compliments_B2
@@ -784,7 +784,7 @@
 شجاع من النوع الهادي	He's quietly courageous	Compliments_B2
 أسلوبه مختلف	His style is different / unique	Compliments_B2
 عنده حكمة أكبر من سنه	He has wisdom beyond his years	Compliments_B2
-بيفهر بعيد	He thinks ahead	Compliments_B2
+بيفكر لبعيد	He thinks ahead	Compliments_B2
 ده مستوى تاني	That's on another level	Compliments_B2
 قادر يتكيف مع أي حد	He can get along with anyone	Compliments_B2
 بيلتزم بكلامه	He keeps his word	Compliments_B2
@@ -796,10 +796,10 @@
 محتاج وقت لوحدي	I need some time alone	Emotional_Intelligence
 ما قدرش أعبّر عن نفسي	I can't express myself	Emotional_Intelligence
 ده أصعب من اللي بان	This is harder than it looks	Emotional_Intelligence
-الجرح لسه طازج	The wound is still fresh	Emotional_Intelligence
-بحاول ما أفكرشي فيه	I'm trying not to think about it	Emotional_Intelligence
+الجرح لسه جديد	The wound is still fresh	Emotional_Intelligence
+بحاول ما أفكرش فيه	I'm trying not to think about it	Emotional_Intelligence
 مالكش إحساس؟	Don't you have feelings?	Emotional_Intelligence
-مش لازم تفهم، بس كن موجود	You don't have to understand, just be there	Emotional_Intelligence
+مش لازم تفهم، بس خليك موجود	You don't have to understand, just be there	Emotional_Intelligence
 الإحساس ده هيعدي	This feeling won't last	Emotional_Intelligence
 بييجي وبيروح	It comes and goes	Emotional_Intelligence
 عايز أحقق حاجة	I want to achieve something	Ambition_Goals
@@ -810,7 +810,7 @@
 ما ينفعش أقف هنا	I can't stop here	Ambition_Goals
 في خطوات لازم آخدها	There are steps I need to take	Ambition_Goals
 بدأ من الصفر	He started from zero	Ambition_Goals
-ده مش سقفي	This isn't my ceiling	Ambition_Goals
+طموحي ملوش حدود	This isn't my ceiling	Ambition_Goals
 عايز أعمل حاجة تفرق	I want to make a difference	Ambition_Goals
 النجاح مش في يوم وليلة	Success doesn't happen overnight	Ambition_Goals
 هتفضل تحاول لحد ما تنجح	Keep trying until you succeed	Ambition_Goals
@@ -821,22 +821,22 @@
 الكورس ده بيساعد؟	Is this course helpful?	Education_Growth
 في كورس أونلاين كويس؟	Any good online course?	Education_Growth
 اتعلم من يوتيوب	He learned from YouTube	Education_Growth
-الكتب ما بيقراش	He doesn't read books	Education_Growth
+ما بيقراش كتب	He doesn't read books	Education_Growth
 لغته الإنجليزية بتتحسن	His English is improving	Education_Growth
 بيذاكر لحساب نفسه	He's self-studying	Education_Growth
 المهارة دي مطلوبة جداً	This skill is in high demand	Education_Growth
 في شهادة تستحق؟	Is there a certificate worth getting?	Education_Growth
-الدبلوم ولا الدرجة العلمية؟	Diploma or degree?	Education_Growth
+الدبلومة ولا الشهادة؟	Diploma or degree?	Education_Growth
 بدأ يتعلم برمجة	He started learning coding	Education_Growth
 التعلم مستمر	Learning never stops	Education_Growth
 ما تبطلش تتعلم	Never stop learning	Education_Growth
 الكورس ده عملي ولا نظري؟	Is this course practical or theoretical?	Education_Growth
 في منهج واضح؟	Is there a clear curriculum?	Education_Growth
-ده بيتباع على الطور؟	Is this sold by the piece?	Market_Bargaining
+ده بيتباع بالقطعة؟	Is this sold by the piece?	Market_Bargaining
 بتبيع بالجملة؟	Do you sell wholesale?	Market_Bargaining
 البضاعة طازة؟	Is the produce fresh?	Market_Bargaining
 الكيلو بكام؟	How much per kilo?	Market_Bargaining
-خللي الكيلو بخمسة	Make it five per kilo	Market_Bargaining
+خلي الكيلو على خمسة	Make it five per kilo	Market_Bargaining
 ده تقيل في الميزان	That's heavy on the scale	Market_Bargaining
 ضيف شوية كمان	Add a little more	Market_Bargaining
 خليه جنب	Set it aside for me	Market_Bargaining
@@ -844,8 +844,8 @@
 بيجي منين ده؟	Where does this come from?	Market_Bargaining
 ده موسمه فين؟	When is this in season?	Market_Bargaining
 ده وقته عدى	This is out of season	Market_Bargaining
-هاجيب تاني المرة بكره	I'll come again tomorrow	Market_Bargaining
-البضاعة بتعدي عليها ساعة كام؟	What time does the stock arrive?	Market_Bargaining
+هاجي تاني بكره	I'll come again tomorrow	Market_Bargaining
+البضاعة بتوصل الساعة كام؟	What time does the stock arrive?	Market_Bargaining
 بتستناني؟	Will you wait for me / hold it for me?	Market_Bargaining
 في إيه النهارده على النت؟	What's happening online today?	Digital_Culture
 الترند ده ليه؟	Why is this trending?	Digital_Culture
@@ -853,18 +853,18 @@
 كام فيو عنده؟	How many views does it have?	Digital_Culture
 فلان بيتكلم على إيه؟	What is so-and-so talking about?	Digital_Culture
 المحتوى ده خفيف	This content is lightweight / shallow	Digital_Culture
-ده كريتور كويس	He's a good content creator	Digital_Culture
+بيعمل فيديوهات جامدة	He's a good content creator	Digital_Culture
 هو بيعمل سبونسر	He's doing a sponsorship	Digital_Culture
 الانفلونسر ده صادق؟	Is this influencer genuine?	Digital_Culture
-دي صنعة مش حقيقية	That persona is manufactured	Digital_Culture
+دي تمثيلية مش حقيقية	That persona is manufactured	Digital_Culture
 مشترك في قناته؟	Are you subscribed to his channel?	Digital_Culture
-الألجوريثم بيلعب معاه	The algorithm's working for him	Digital_Culture
+الدنيا ماشية معاه	Things are going great for him (Algorithm working)	Digital_Culture
 النشرة البريدية مفيدة	The newsletter is useful	Digital_Culture
 ما بيردش على الكومنتات	He doesn't reply to comments	Digital_Culture
-الكونتنت ده بيبني أودينس	This content builds an audience	Digital_Culture
+المحتوى ده بيبني جمهور	This content builds an audience	Digital_Culture
 خليك واضح	Stay transparent / Be straight	Values_Principles
-كن صادق في كل حاجة	Be honest in everything	Values_Principles
-المبدأ ما بيتنامش	Principles don't take a day off	Values_Principles
+خليك صادق في كل حاجة	Be honest in everything	Values_Principles
+المبدأ مبدأ	Principles don't take a day off	Values_Principles
 ما تكدبش على نفسك	Don't lie to yourself	Values_Principles
 الصدق أساس	Honesty is the foundation	Values_Principles
 اعمل اللي ضميرك مرتاح له	Live by your conscience	Values_Principles
@@ -877,17 +877,17 @@
 الكلمة أمانة في رقبتك	A word is a trust	Values_Principles
 الوعد وعد	A promise is a promise	Values_Principles
 الاحترام ما بيتوهبش، بيتكسب	Respect is earned	Values_Principles
-كلو تمام في المطعم	Everything at the restaurant was great	Food_Dining_Out
+كله تمام في المطعم	Everything at the restaurant was great	Food_Dining_Out
 الخدمة كانت سريعة	The service was fast	Food_Dining_Out
-الأكل جاي ساخن؟	Is the food coming hot?	Food_Dining_Out
-في طبق ثاني تنصح بيه؟	Any other dish you'd recommend?	Food_Dining_Out
-ده طلبي مش وصل	My order hasn't come yet	Food_Dining_Out
+الأكل جاي سخن؟	Is the food coming hot?	Food_Dining_Out
+في طبق تاني ترشحه؟	Any other dish you'd recommend?	Food_Dining_Out
+طلبي لسه ما وصلش	My order hasn't come yet	Food_Dining_Out
 ممكن تغير الطلب؟	Can you change the order?	Food_Dining_Out
 مش بياكل اللحمة	He doesn't eat meat	Food_Dining_Out
 عنده حساسية من المكسرات	He's allergic to nuts	Food_Dining_Out
 الأكل بطيء جداً	The food is very slow coming	Food_Dining_Out
 ممكن تاخده معايا؟	Can I get it to go?	Food_Dining_Out
-هتبقى فين طاولتنا؟	Where will the table be?	Food_Dining_Out
+الترابيزة بتاعتنا فين؟	Where will the table be?	Food_Dining_Out
 في حجز؟	Is there a reservation?	Food_Dining_Out
 الديكور جميل هنا	The décor is lovely here	Food_Dining_Out
 أكيد هنرجع هنا	We'll definitely come back	Food_Dining_Out
@@ -905,9 +905,9 @@
 ده بيناسبك إنت بس	This only suits you personally	Critical_Thinking
 شوفها من ناحية تانية	You need to see it from another angle	Critical_Thinking
 الفكرة دي محتاجة تراجع	This idea needs reviewing	Critical_Thinking
-الأرقام بتقol حاجة تانية	The data says something different	Critical_Thinking
+الأرقام بتقول حاجة تانية	The data says something different	Critical_Thinking
 ما تصدقش أول حاجة بتسمعها	Don't believe the first thing you hear	Critical_Thinking
-إيه اللي بتعمله وقت الفراغ؟	What do you do in your free time?	Leisure_Lifestyle
+بتعمل إيه في وقت فراغك؟	What do you do in your free time?	Leisure_Lifestyle
 بتلعب رياضة؟	Do you play any sport?	Leisure_Lifestyle
 بتقرا كتير؟	Do you read a lot?	Leisure_Lifestyle
 في هواية جديدة؟	Got a new hobby?	Leisure_Lifestyle
@@ -915,14 +915,14 @@
 بتروح المسجد؟	Do you go to the mosque?	Leisure_Lifestyle
 في نادي رياضي هنا؟	Is there a sports club here?	Leisure_Lifestyle
 بتتمشى كتير؟	Do you walk a lot?	Leisure_Lifestyle
-الطبخ هواية تاخد وقت	Cooking is a hobby that takes time	Leisure_Lifestyle
+الطبخ بياخد وقت	Cooking is a hobby that takes time	Leisure_Lifestyle
 بتصور؟	Do you do photography?	Leisure_Lifestyle
 في حاجة بتريحك من الضغط؟	Is there something that relieves your stress?	Leisure_Lifestyle
 بتسمع بودكاست؟	Do you listen to podcasts?	Leisure_Lifestyle
 بتروح السينما؟	Do you go to the cinema?	Leisure_Lifestyle
 بتعمل تطوع؟	Do you volunteer?	Leisure_Lifestyle
 في مشروع جانبي؟	You got a side project?	Leisure_Lifestyle
-آيه ولا لأ؟	Yes or no — which is it?	Decision_Making
+أيوة ولا لأ؟	Yes or no — which is it?	Decision_Making
 فكر كويس قبل ما تقرر	Think carefully before you decide	Decision_Making
 مش لازم تقرر دلوقتي	You don't have to decide right now	Decision_Making
 ده قرار صعب	That's a tough call	Decision_Making
@@ -930,17 +930,17 @@
 الاختيار صعب أوي	The choice is hard	Decision_Making
 ده مش وقت تتردد	This isn't the time to hesitate	Decision_Making
 اتخد قرارك وامشي	Make your decision and go	Decision_Making
-في إيه على المحك؟	What's at stake?	Decision_Making
-مش هاندم	I won't regret this	Decision_Making
+إيه اللي ممكن نخسره؟	What's at stake?	Decision_Making
+مش هندم	I won't regret this	Decision_Making
 وقتها ما كنتش فاهم	At the time I didn't understand	Decision_Making
 لو كنت عارف من البداية	If I'd known from the start	Decision_Making
 ما خدتش وقتي كفاية	I didn't take enough time	Decision_Making
-إحساسي بيقولي اعمل كده	My gut tells me to do this	Decision_Making
+قلبي بيقولي أعمل كده	My gut tells me to do this	Decision_Making
 بتندم على إيه؟	What do you regret?	Decision_Making
 تعامل معاه برفق	Handle it gently	Advice_Giving
 ما تدخلش في اللي مش شغلك	Don't interfere in what's not your business	Advice_Giving
 لازم تاخد بالك من نفسك	You need to look after yourself	Advice_Giving
-أنصحك تبعد	I advise you to stay away	Advice_Giving
+نصيحة مني.. ابعد	I advise you to stay away	Advice_Giving
 ما تكررش الغلطة دي	Don't repeat that mistake	Advice_Giving
 الأحسن تسأل الناس اللي عندهم خبرة	Better to ask people with experience	Advice_Giving
 في حاجة مش لازم تعملها	There's something you shouldn't do	Advice_Giving
@@ -948,8 +948,8 @@
 الكلام ده من خبرة	This comes from experience	Advice_Giving
 خد نصيحة من الناجحين	Take advice from those who succeeded	Advice_Giving
 ما تسمعش كل كلام	Don't listen to everything people say	Advice_Giving
-استشير قبل ما تعمل	Consult before you act	Advice_Giving
-الحذر مش معناه خوف	Caution isn't cowardice	Advice_Giving
+شاور الأول	Consult before you act	Advice_Giving
+الحذر مش معناه جُبن	Caution isn't cowardice	Advice_Giving
 ما تتسرعش	Don't rush	Advice_Giving
 فكر في العواقب قبل ما تعمل	Think about the consequences	Advice_Giving
 بيشتغل بجد	He works hard	Compliments_Work
@@ -977,12 +977,12 @@
 التحولات دي طبيعية	These transitions are natural	Life_Transitions
 ما تخافش من البداية الجديدة	Don't be afraid of a fresh start	Life_Transitions
 ده وقت النمو	This is your growth period	Life_Transitions
-الصبح بكير رزقه كتير	The early bird catches the worm	Proverbs
+الصبح بدري رزقه كتير	The early bird catches the worm	Proverbs
 اللي على دماغه حاجة بيحسس عليها	A guilty conscience needs no accuser	Proverbs
 إيد لوحدها ما بتصفقش	One hand can't clap alone	Proverbs
 اللي ما يعرفكش ما يقدركش	Those who don't know you can't value you	Proverbs
 القرد في عين أمه غزال	A mother sees her child as perfect	Proverbs
-الحيطة الواطية كلهم بيعلوا عليها	A short fence invites trouble	Proverbs
+الحيطة الواطية ينط عليها كل الناس	A short fence invites trouble	Proverbs
 جارك القريب ولا أخوك البعيد	A close neighbor beats a distant brother	Proverbs
 المكتوب على الجبين لازم تشوفه العين	What's destined will come to pass	Proverbs
 اللي شافك ما جهلك	Those who've seen you won't underestimate you	Proverbs
